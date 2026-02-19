@@ -23,5 +23,5 @@
 9am - [Mathmatics for Computer Technology - Comp 1162](https://learn.georgebrown.ca/d2l/le/lessons/447678/topics/10717353)<br>
 * Friday:<br>
 9am - [Fundamentals of Computer Logic - Comp 1236](https://learn.georgebrown.ca/d2l/home/455928)<br>
-12pm - Communicating Across Contexts - COMMS 2000](https://learn.georgebrown.ca/d2l/home/436807)<br>
+12pm - [Communicating Across Contexts - COMMS 2000](https://learn.georgebrown.ca/d2l/home/436807)<br>
 3pm - [Intro to Data Management - comp 1238](https://learn.georgebrown.ca/d2l/home/452067)
